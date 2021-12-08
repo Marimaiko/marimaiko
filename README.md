@@ -1,8 +1,10 @@
 ## Oie! Eu sou a Mari✨
 
-- Tecnologia em Mecatrônica Ind -> Engenharia Elétrica -> Desenvolvimento web Front-end
-- 💬 Migrando de Engenharia🔌 para TI💻 since 2020
-- 🌱 Focando no Front-end (React/Vue)
+- 🎓 Tecnologia em Mecatrônica Ind -> Engenharia Elétrica -> Desenvolvimento web Front-end -> Desenvolvimento Mobile iOS
+- 💬 Migrando de Engenharia🔌  para TI💻  since 2020
+- 🖥 Conhecimento em Front-end (React/Vue)
+- 🌱 Focando em mobile iOS📲
+- 👩🏻‍💻 Trabalhando na Cora bank
 - ⚡ Fun fact: 🌮 >>>> 🍣
 
 <div>
